@@ -1,0 +1,2 @@
+name = Samrudh
+print(name)
